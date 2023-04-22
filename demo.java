@@ -2,6 +2,7 @@ class Employee{
     int id;
     String name;
     int salary;
+    int adhar card;
     public void printDetails()
     {
         System.out.println("The id of the employee is "+id);
